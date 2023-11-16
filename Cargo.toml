@@ -1,0 +1,13 @@
+[package]
+name = "tiny-serve"
+version = "0.1.0"
+edition = "2021"
+description = "A very lightweight server executable"
+repository = "https://github.com/MoAlyousef/tiny-serve"
+documentation = "https://docs.rs/tiny-serve"
+keywords = ["http", "server", "web"]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+livid-server = "0.2"
