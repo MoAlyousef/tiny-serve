@@ -1,6 +1,6 @@
 [package]
 name = "tiny-serve"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A very lightweight server executable"
 repository = "https://github.com/MoAlyousef/tiny-serve"
